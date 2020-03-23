@@ -10,6 +10,7 @@ namespace ConsoleApp1
 
             Console.WriteLine("Результат");
             Console.WriteLine(a);
+            Console.WriteLine("Вот и все!");
 
             Console.ReadLine();
         }
